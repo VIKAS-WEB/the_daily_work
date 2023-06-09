@@ -1,6 +1,6 @@
 # the_daily_work
 
-A new Flutter project.
+A New Job Search Application Which is Develop in Flutter Framework.
 
 ## Getting Started
 
